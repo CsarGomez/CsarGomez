@@ -29,7 +29,7 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 [website]: https://csargomez.com
-[twitter]: ttps://twitter.com/cgope?lang=en
+[twitter]: https://twitter.com/cgope?lang=en
 [instagram]: https://www.instagram.com/cgope/
 [linkedin]: https://www.linkedin.com/in/cgope/
 [innovateod]: http://innovateod.com

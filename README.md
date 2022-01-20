@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working at [Innovate on Demmand][innovateod] as Data Analyst!
 
-- 🌱 I’m currently learning Javascript and react.js 
+- 🌱 I’m currently learning react.js 
 
 - ⚡ Fun fact: I love play guitar
 

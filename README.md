@@ -1,6 +1,6 @@
 ### Hi there, I'm Cesar Gomez 👋
 
-- 🔭 I’m currently working at [Innovate on Demmand][innovateod] as Data Analyst!
+- 🔭 I’m currently working at [Innovate on Demmand][innovateod]!
 
 - 🌱 I’m currently learning react.js 
 

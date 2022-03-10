@@ -7,7 +7,7 @@
       location: "Colombia",
       role: "Frontend Developer",
       lenguages: "en_US, es_CO",
-      hobbies: "Guitar, Graphic design, Volleyball, MMA",
+      hobbies: ['Play Guitar', 'Graphic design', 'Volleyball', 'MMA'],
     }
   ]
 ```

@@ -1,35 +1,36 @@
-### Hi there, I'm Cesar Gomez 👋
+## Hello 👋
 
-- 🔭 I’m currently working at [Innovate on Demmand][innovateod]!
+```JS
+  const AboutMe = [
+    {
+      name: "Cesar Gomez",
+      location: "Colombia",
+      role: "Frontend Developer",
+      lenguages: "en_US, es_CO",
+      hobbies: "Guitar, Graphic design, Volleyball, MMA",
+    }
+  ]
+```
+  
+[![twitter](https://img.shields.io/badge/-Twitter-white?logo=Twitter&logoColor=blue&style=for-the-badge)](https://twitter.com/cgope?lang=en)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-white?logo=LinkedIn&logoColor=blue&style=for-the-badge)](https://linkedin.com/in/cgope)
+[![Instagram](https://img.shields.io/badge/-Instagram-white?logo=Instagram&logoColor=red&style=for-the-badge)](https://instagram.com/cgope)
+[![Website](https://img.shields.io/badge/-Website-white?logo=HomeAdvisor&logoColor=black&style=for-the-badge)](https://csargomez.com)
 
-- 🌱 I’m currently learning react.js 
 
-- ⚡ Fun fact: I love play guitar
+## Skills:
 
-### Connect with me:
+![html](https://img.shields.io/badge/-HTML5-white?logo=HTML5&logoColor=E34F26&style=for-the-badge)
+![css](https://img.shields.io/badge/-CSS3-white?logo=CSS3&logoColor=1572B6&style=for-the-badge)
+![sass](https://img.shields.io/badge/-Sass-white?logo=Sass&logoColor=CC6699&style=for-the-badge)
+![stylus](https://img.shields.io/badge/-Stylus-white?logo=Stylus&logoColor=333333&style=for-the-badge)
+![Git](https://img.shields.io/badge/-Git-white?logo=Git&logoColor=F05032&style=for-the-badge)
+![Github](https://img.shields.io/badge/-GitHub-white?logo=GitHub&logoColor=181717&style=for-the-badge)
+![javascript](https://img.shields.io/badge/-JavaScript-white?logo=JavaScript&logoColor=F7DF1E&style=for-the-badge)
+![react](https://img.shields.io/badge/-React-white?logo=react&logoColor=61DAFB&style=for-the-badge)
+![SQL Server](https://img.shields.io/badge/-SQL_Server-white?logo=MicrosoftSQLServer&logoColor=red&style=for-the-badge)
 
-[<img align="left" alt="csargomez.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="cgope | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="cgope | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="cgope | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+## Tools:
+![MacOS](https://img.shields.io/badge/OS:-MacOS-white?logo=Apple&logoColor=ffffff&style=flat-square)
+![VSCode](https://img.shields.io/badge/Editor:-Visual_Studio_Code-white?logo=VisualStudioCode&logoColor=007ACC&style=flat-square)
 
-</br>
-
-### Languages and Tools:
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-
-[website]: https://csargomez.com
-[twitter]: https://twitter.com/cgope?lang=en
-[instagram]: https://www.instagram.com/cgope/
-[linkedin]: https://www.linkedin.com/in/cgope/
-[innovateod]: http://innovateod.com

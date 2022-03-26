@@ -31,6 +31,13 @@
 ![SQL Server](https://img.shields.io/badge/-SQL_Server-white?logo=MicrosoftSQLServer&logoColor=red&style=for-the-badge)
 
 ## Tools:
-![MacOS](https://img.shields.io/badge/OS:-MacOS-white?logo=Apple&logoColor=ffffff&style=flat-square)
-![VSCode](https://img.shields.io/badge/Editor:-Visual_Studio_Code-white?logo=VisualStudioCode&logoColor=007ACC&style=flat-square)
+![MacOS](https://img.shields.io/badge/MacOS-white?logo=Apple&logoColor=000000&style=flat-square)
+![VSCode](https://img.shields.io/badge/Visual_Studio_Code-white?logo=VisualStudioCode&logoColor=007ACC&style=flat-square)
+![Vim](https://img.shields.io/badge/Vim-white?logo=Vim&logoColor=019733&style=flat-square)
+![npm](https://img.shields.io/badge/npm-white?logo=npm&logoColor=CB3837&style=flat-square)
+![ChromeDevTools](https://img.shields.io/badge/Chrome_dev_tools-white?logo=GoogleChrome&logoColor=4285F4&style=flat-square)
+![FriFoxDevTools](https://img.shields.io/badge/Firefox_dev_tools-white?logo=Firefox&logoColor=FF7139&style=flat-square)
+![Figma](https://img.shields.io/badge/Figma-white?logo=Figma&logoColor=F24E1E&style=flat-square)
+![Jira](https://img.shields.io/badge/Jira-white?logo=Jira&logoColor=0052CC&style=flat-square)
+![Slack](https://img.shields.io/badge/Slack-white?logo=Slack&logoColor=4A154B&style=flat-square)
 

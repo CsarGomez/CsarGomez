@@ -28,6 +28,7 @@
 ![Github](https://img.shields.io/badge/-GitHub-white?logo=GitHub&logoColor=181717&style=for-the-badge)
 ![javascript](https://img.shields.io/badge/-JavaScript-white?logo=JavaScript&logoColor=F7DF1E&style=for-the-badge)
 ![react](https://img.shields.io/badge/-React-white?logo=react&logoColor=61DAFB&style=for-the-badge)
+![nextjs](https://img.shields.io/badge/-Next-white?logo=Next.js&logoColor=000000&style=for-the-badge)
 ![SQL Server](https://img.shields.io/badge/-SQL_Server-white?logo=MicrosoftSQLServer&logoColor=red&style=for-the-badge)
 
 ## Tools:

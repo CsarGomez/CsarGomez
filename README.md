@@ -30,6 +30,9 @@
 ![react](https://img.shields.io/badge/-React-white?logo=react&logoColor=61DAFB&style=for-the-badge)
 ![nextjs](https://img.shields.io/badge/-Next-white?logo=Next.js&logoColor=000000&style=for-the-badge)
 ![SQL Server](https://img.shields.io/badge/-SQL_Server-white?logo=MicrosoftSQLServer&logoColor=red&style=for-the-badge)
+![Graph QL](https://img.shields.io/badge/-GraphQL-white?logo=GraphQL&logoColor=E10098&style=for-the-badge)
+![Apollo GraphQL](https://img.shields.io/badge/-Apollo_GraphQL-white?logo=ApolloGraphQL&logoColor=311C87&style=for-the-badge)
+
 
 ## Tools:
 ![MacOS](https://img.shields.io/badge/MacOS-white?logo=Apple&logoColor=000000&style=flat-square)

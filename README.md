@@ -6,7 +6,7 @@
       name: "Cesar Gomez",
       location: "Colombia",
       role: "Frontend Developer",
-      lenguages: ["en_US", "es_CO"],
+      languages: ["en_US", "es_CO"],
       hobbies: ["Play Guitar", "Graphic design", "Volleyball", "MMA"],
     }
   ]

@@ -15,7 +15,7 @@
 [![twitter](https://img.shields.io/badge/-Twitter-white?logo=Twitter&logoColor=blue&style=for-the-badge)](https://twitter.com/cgope?lang=en)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-white?logo=LinkedIn&logoColor=blue&style=for-the-badge)](https://linkedin.com/in/cgope)
 [![Instagram](https://img.shields.io/badge/-Instagram-white?logo=Instagram&logoColor=red&style=for-the-badge)](https://instagram.com/cgope)
-[![Website](https://img.shields.io/badge/-Website-white?logo=HomeAdvisor&logoColor=black&style=for-the-badge)](https://csargomez.com)
+[![Website](https://img.shields.io/badge/-Website-white?logo=HomeAdvisor&logoColor=black&style=for-the-badge)](https://cesargomez.io)
 
 
 ## Skills:

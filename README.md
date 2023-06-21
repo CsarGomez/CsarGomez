@@ -7,7 +7,7 @@
       location: "Colombia",
       role: "Software Developer",
       languages: ["en_US", "es_CO"],
-      hobbies: ["Play Guitar", "Graphic design", "Volleyball", "MMA"],
+      hobbies: ["Guitar", "Graphic design", "Volleyball", "MMA", "Calisthenics"],
     }
   ]
 ```

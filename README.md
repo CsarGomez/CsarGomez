@@ -1,6 +1,6 @@
 ## Hello 👋
 
-```JS
+```TS
   const AboutMe = [
     {
       name: "Cesar Gomez",
@@ -11,11 +11,12 @@
     }
   ]
 ```
-  
-[![twitter](https://img.shields.io/badge/-Twitter-white?logo=Twitter&logoColor=blue&style=for-the-badge)](https://twitter.com/cgope?lang=en)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-white?logo=LinkedIn&logoColor=blue&style=for-the-badge)](https://linkedin.com/in/cgope)
-[![Instagram](https://img.shields.io/badge/-Instagram-white?logo=Instagram&logoColor=red&style=for-the-badge)](https://instagram.com/cgope)
-[![Website](https://img.shields.io/badge/-Website-white?logo=HomeAdvisor&logoColor=black&style=for-the-badge)](https://cesargomez.io)
+
+## Contact:
+
+[![X](https://img.shields.io/badge/-@cgope-000000?logo=x&logoColor=white)](https://twitter.com/cgope)
+[![LinkedIn](https://img.shields.io/badge/-@cgope-0A66C2?logo=LinkedIn&logoColor=white)](https://linkedin.com/in/cgope)
+[![Website](https://img.shields.io/badge/-website-000000?logo=googlehome&logoColor=white)](https://cesargomez.io)
 
 
 ## Skills:

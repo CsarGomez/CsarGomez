@@ -34,7 +34,6 @@ Apart from that I'm a music lover and always happy to spend some time with my do
   <img width="16" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" title="Node.js"/> Node.js &nbsp
   <img width="16" src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" alt="Express" title="Express"/> Express js &nbsp
   <img width="16" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/519bfaf3-c242-431e-a269-876979f05574" alt="Nest.js" title="Nest.js"/> Nest JS &nbsp
-  <img width="16" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="REST" title="REST"/> REST API &nbsp
 </div>
 
 ---

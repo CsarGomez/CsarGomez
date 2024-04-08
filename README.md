@@ -11,8 +11,7 @@ Apart from that I'm a music lover and always happy to spend some time with my do
 
 ---
 
-#### Frontend Technologies
-
+### Frontend Technologies
 <div>
   <img width="16" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/> HTML &nbsp
   <img width="16" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/> CSS &nbsp
@@ -27,26 +26,20 @@ Apart from that I'm a music lover and always happy to spend some time with my do
   <img width="16" src="https://user-images.githubusercontent.com/25181517/192107856-aa92c8b1-b615-47c3-9141-ed0d29a90239.png" alt="GraphQL" title="GraphQL"/> GraphQL
 </div>
 
----
-
-#### Backend Technologies  
+### Backend Technologies  
 <div>
   <img width="16" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" title="Node.js"/> Node.js &nbsp
   <img width="16" src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" alt="Express" title="Express"/> Express js &nbsp
   <img width="16" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/519bfaf3-c242-431e-a269-876979f05574" alt="Nest.js" title="Nest.js"/> Nest JS &nbsp
 </div>
 
----
-
-#### Database
+### Database
 <div>
   <img width="16" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" alt="PostgreSQL" title="PostgreSQL"/> Postgres SQL &nbsp
   <img width="16" src="https://github.com/marwin1991/profile-technology-icons/assets/19180175/3b371807-db7c-45b4-8720-c0cfc901680a" alt="MSSQL" title="MSSQL"/>  MySql
 </div>
 
----
-
-#### Tools
+### Tools
 <div>
   <img width="16" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code"/> VSCode &nbsp
   <img width="16" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/> Git &nbsp
